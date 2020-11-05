@@ -1,0 +1,56 @@
+#wrapper {
+	margin: 10px;
+	padding 10px;
+	border: 2px solid black;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.titl {
+	background-color: brown;
+	color: yellow;
+	font-variant: small-caps;
+	letter-spacing: 2px;
+	max-width: 500px;
+	margin: 15px auto;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+#nav {
+	border: 2px solid black;
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+	background-color: orange;
+	padding: 10px 20px;
+	margin: 0px 50px;
+	border-radius: 5px;
+	color: brown;
+	transition: 1s;
+}
+
+a:hover {
+	background-color: brown;
+	color: yellow;
+}
+
+article {
+	background-color: dimgrey;
+	padding: 10px;
+	color: yellow;
+}
+
+aside {
+	background-color: darkred;
+	color: white;
+	padding: 10px;
+}
+
+footer {
+	background-color: black;
+	color: white;
+	padding: 10px;
+}
